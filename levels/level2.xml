@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<level width="30" height="20" tilewidth="48" tileheight="48">
+	<declarations>
+		<given id="i222" width="48" height="48" image="0b.png" value="0" />
+		<digit id="i223" width="48" height="48" image="0r.png" value="0" />
+		<given id="i224" width="48" height="48" image="1b.png" value="1" />
+		<digit id="i225" width="48" height="48" image="1r.png" value="1" />
+		<given id="i226" width="48" height="48" image="2b.png" value="2" />
+		<digit id="i227" width="48" height="48" image="2r.png" value="2" />
+		<given id="i228" width="48" height="48" image="3b.png" value="3" />
+		<given id="i229" width="48" height="48" image="4b.png" value="4" />
+		<digit id="i230" width="48" height="48" image="4r.png" value="4" />
+		<given id="i231" width="48" height="48" image="5b.png" value="5" />
+		<digit id="i232" width="48" height="48" image="5r.png" value="5" />
+		<given id="i233" width="48" height="48" image="6b.png" value="6" />
+		<digit id="i234" width="48" height="48" image="6r.png" value="6" />
+		<given id="i235" width="48" height="48" image="7b.png" value="7" />
+		<digit id="i236" width="48" height="48" image="7r.png" value="7" />
+		<given id="i237" width="48" height="48" image="8b.png" value="8" />
+		<digit id="i238" width="48" height="48" image="8r.png" value="8" />
+		<digit id="i241" width="48" height="48" image="3r.png" value="3" />
+		<xray id="i244" width="144" height="144" image="xray.png" capacity="7" />
+		<background id="i245" width="528" height="528" image="sudoku.png" />
+		<background id="i246" width="1440" height="960" image="background2.png" />
+		<container id="i247" width="204" height="176" image="pumpkin.png" front="pumpkin-front.png" />
+		<container id="i248" width="220" height="215" image="cauldron.png" front="cauldron-2.png" />
+		<sparty id="i250" width="96" height="96" front="1" head-pivot-angle="1.5" head-pivot-x="40" head-pivot-y="86" image1="sparty-3.png" image2="sparty-4.png" mouth-pivot-angle="0.5" mouth-pivot-x="30" mouth-pivot-y="65" target-x="72" target-y="24" />
+	</declarations>
+	<game col="5" row="1">5 2 6 7 0 3 4 1 8 3 4 0 2 8 1 5 7 6 8 1 7 5 4 6 0 3 2 2 0 3 4 1 7 8 6 5 4 5 8 6 3 0 7 2 1 7 6 1 8 5 2 3 0 4 1 7 4 3 6 5 2 8 0 6 3 5 0 2 8 1 4 7 0 8 2 1 7 4 6 5 3</game>
+	<items>
+		<background id="i246" col="0.0" row="19.0" />
+		<background id="i245" col="4.0" row="10.0" />
+		<xray id="i244" col="1.2995" row="7.6219" />
+		<given id="i235" col="8" row="1" />
+		<given id="i228" col="10" row="1" />
+		<given id="i229" col="11" row="1" />
+		<given id="i224" col="12" row="1" />
+		<given id="i228" col="5" row="2" />
+		<given id="i237" col="9" row="2" />
+		<given id="i231" col="11" row="2" />
+		<given id="i235" col="12" row="2" />
+		<given id="i237" col="5" row="3" />
+		<given id="i224" col="6" row="3" />
+		<given id="i229" col="9" row="3" />
+		<given id="i228" col="7" row="4" />
+		<given id="i229" col="8" row="4" />
+		<given id="i235" col="10" row="4" />
+		<given id="i233" col="12" row="4" />
+		<given id="i229" col="5" row="5" />
+		<given id="i231" col="6" row="5" />
+		<given id="i226" col="12" row="5" />
+		<given id="i224" col="13" row="5" />
+		<given id="i233" col="6" row="6" />
+		<given id="i237" col="8" row="6" />
+		<given id="i226" col="10" row="6" />
+		<given id="i228" col="11" row="6" />
+		<given id="i233" col="9" row="7" />
+		<given id="i237" col="12" row="7" />
+		<given id="i222" col="13" row="7" />
+		<given id="i228" col="6" row="8" />
+		<given id="i231" col="7" row="8" />
+		<given id="i226" col="9" row="8" />
+		<given id="i235" col="13" row="8" />
+		<given id="i237" col="6" row="9" />
+		<given id="i226" col="7" row="9" />
+		<given id="i224" col="8" row="9" />
+		<given id="i229" col="10" row="9" />
+		<digit id="i223" col="27.4502" row="9.0537" />
+		<digit id="i223" col="18.9221" row="1.0346" />
+		<digit id="i223" col="22.231" row="1.0106" />
+		<digit id="i223" col="25.6523" row="0.4774" />
+		<digit id="i225" col="16.4284" row="2.9049" />
+		<digit id="i225" col="28.7073" row="12.4722" />
+		<digit id="i225" col="15.7796" row="8.305" />
+		<digit id="i225" col="22.279" row="3.1207" />
+		<digit id="i241" col="16.5483" row="6.6454" />
+		<digit id="i241" col="23.6298" row="4.8043" />
+		<digit id="i241" col="1.2341" row="13.4269" />
+		<digit id="i230" col="17.9276" row="8.1775" />
+		<digit id="i230" col="21.0344" row="10.0656" />
+		<digit id="i230" col="19.9532" row="8.4917" />
+		<digit id="i230" col="16.9773" row="5.0518" />
+		<digit id="i232" col="25.4131" row="2.9035" />
+		<digit id="i232" col="18.6851" row="9.7828" />
+		<digit id="i232" col="27.564" row="7.0949" />
+		<digit id="i232" col="22.3465" row="6.8998" />
+		<digit id="i232" col="24.7488" row="10.1702" />
+		<digit id="i234" col="16.4262" row="10.0575" />
+		<digit id="i234" col="22.1088" row="5.0192" />
+		<digit id="i234" col="1.2055" row="11.4868" />
+		<digit id="i234" col="16.3539" row="0.9247" />
+		<digit id="i234" col="22.3494" row="8.6772" />
+		<digit id="i236" col="18.4106" row="2.8709" />
+		<digit id="i236" col="25.1327" row="7.9336" />
+		<digit id="i236" col="19.3785" row="4.5921" />
+		<digit id="i238" col="19.7285" row="6.6082" />
+		<digit id="i238" col="28.379" row="4.137" />
+		<digit id="i223" col="28.1096" row="1.9467" />
+		<container id="i248" col="7.1802" row="18.4012">
+			<digit id="i223" col="8.4632" row="16.1667" />
+			<digit id="i223" col="8.0029" row="15.9729" />
+			<digit id="i232" col="8.7054" row="15.9002" />
+			<digit id="i236" col="8.9961" row="15.9971" />
+			<digit id="i241" col="9.7955" row="15.9002" />
+			<digit id="i238" col="7.7364" row="15.9729" />
+			<digit id="i225" col="9.5775" row="15.876" />
+		</container>
+		<container id="i247" col="19.5804" row="18.2267">
+			<digit id="i223" col="22.4408" row="17.5959" />
+			<digit id="i227" col="20.3818" row="17.8866" />
+			<digit id="i227" col="19.97" row="17.5233" />
+			<digit id="i227" col="21.5931" row="17.8866" />
+			<digit id="i227" col="21.0358" row="17.4506" />
+			<digit id="i227" col="20.4545" row="17.063" />
+			<digit id="i238" col="20.9631" row="18.1289" />
+			<digit id="i234" col="21.9565" row="17.0388" />
+			<digit id="i236" col="22.0048" row="17.7655" />
+		</container>
+		<sparty id="i250" col="1.9312" row="4.6996" />
+	</items>
+</level>

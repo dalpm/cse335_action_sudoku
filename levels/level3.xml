@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<level width="30" height="20" tilewidth="48" tileheight="48">
+	<declarations>
+		<given id="i145" width="48" height="48" image="0b.png" value="0" />
+		<digit id="i146" width="48" height="48" image="0r.png" value="0" />
+		<given id="i147" width="48" height="48" image="1b.png" value="1" />
+		<digit id="i148" width="48" height="48" image="1r.png" value="1" />
+		<given id="i149" width="48" height="48" image="2b.png" value="2" />
+		<digit id="i150" width="48" height="48" image="2r.png" value="2" />
+		<given id="i151" width="48" height="48" image="3b.png" value="3" />
+		<given id="i152" width="48" height="48" image="4b.png" value="4" />
+		<digit id="i153" width="48" height="48" image="4r.png" value="4" />
+		<given id="i154" width="48" height="48" image="5b.png" value="5" />
+		<digit id="i155" width="48" height="48" image="5r.png" value="5" />
+		<given id="i156" width="48" height="48" image="6b.png" value="6" />
+		<digit id="i157" width="48" height="48" image="6r.png" value="6" />
+		<given id="i158" width="48" height="48" image="7b.png" value="7" />
+		<digit id="i159" width="48" height="48" image="7r.png" value="7" />
+		<given id="i160" width="48" height="48" image="8b.png" value="8" />
+		<digit id="i161" width="48" height="48" image="8r.png" value="8" />
+		<digit id="i164" width="48" height="48" image="3r.png" value="3" />
+		<sparty id="i165" width="96" height="96" front="2" head-pivot-angle="0.8" head-pivot-x="30" head-pivot-y="86" image1="sparty-1.png" image2="sparty-2.png" mouth-pivot-angle="1" mouth-pivot-x="39" mouth-pivot-y="86" target-x="72" target-y="24" />
+		<background id="i345" width="528" height="528" image="sudoku.png" />
+		<background id="i346" width="1440" height="960" image="stadium.png" />
+		<xray id="i167" width="144" height="144" image="xray.png" capacity="7" />
+	</declarations>
+	<game col="4" row="3">5 7 3 0 4 8 6 2 1 6 4 0 7 2 1 8 3 5 8 1 2 5 6 3 0 7 4 0 8 1 2 5 4 7 6 3 7 3 4 1 0 6 5 8 2 2 5 6 3 8 7 1 4 0 1 2 8 6 3 5 4 0 7 4 0 5 8 7 2 3 1 6 3 6 7 4 1 0 2 5 8</game>
+	<items>
+		<background id="i346" col="0.0" row="19.0" />
+		<background id="i345" col="3.0" row="12.0" />
+		<xray id="i167" col="0.6042" row="14.0" />
+
+		<given id="i147" col="12" row="3" />
+		<given id="i160" col="10" row="4" />
+		<given id="i151" col="11" row="4" />
+		<given id="i149" col="6" row="5" />
+		<given id="i152" col="12" row="5" />
+		<given id="i160" col="5" row="6" />
+		<given id="i147" col="6" row="6" />
+		<given id="i149" col="7" row="6" />
+		<given id="i152" col="9" row="6" />
+		<given id="i156" col="11" row="6" />
+		<given id="i151" col="12" row="6" />
+		<given id="i158" col="4" row="7" />
+		<given id="i151" col="5" row="7" />
+		<given id="i154" col="5" row="8" />
+		<given id="i156" col="6" row="8" />
+		<given id="i160" col="8" row="8" />
+		<given id="i158" col="9" row="8" />
+		<given id="i156" col="7" row="9" />
+		<given id="i154" col="9" row="9" />
+		<given id="i160" col="7" row="10" />
+		<given id="i147" col="11" row="10" />
+		<given id="i151" col="4" row="11" />
+		<given id="i158" col="6" row="11" />
+		<given id="i152" col="7" row="11" />
+		<given id="i149" col="10" row="11" />
+		<given id="i154" col="11" row="11" />
+
+		<digit id="i146" col="17.54" row="0.12" />
+		<digit id="i146" col="18.323" row="12.34" />
+		<digit id="i146" col="20.322" row="17.433" />
+		<digit id="i146" col="25.877" row="9.336" />
+		<digit id="i146" col="6.35" row="14.45" />
+		<digit id="i146" col="22.45" row="10.453" />
+		<digit id="i146" col="14.354" row="3.45" />
+		<digit id="i146" col="28.543" row="1.435" />
+		<digit id="i146" col="22.5345" row="13.4534" />
+
+		<digit id="i148" col="14.344" row="13.4453" />
+		<digit id="i148" col="24.2113" row="14.3545" />
+		<digit id="i148" col="23.434" row="9.765" />
+		<digit id="i148" col="6.45" row="1.34" />
+		<digit id="i148" col="22.23" row="4.543" />
+		<digit id="i148" col="18.546" row="5.565" />
+
+		<digit id="i150" col="23.543" row="15.432" />
+		<digit id="i150" col="13.432" row="7.134" />
+		<digit id="i150" col="17.43662" row="8.343" />
+		<digit id="i150" col="15.6527" row="2.76565" />
+		<digit id="i150" col="20.75647" row="0.566" />
+		<digit id="i150" col="9.65475" row="12.9859" />
+
+		<digit id="i164" col="1.65436" row="1.436" />
+		<digit id="i164" col="20.5436" row="12.5436" />
+		<digit id="i164" col="15.243" row="7.7657" />
+		<digit id="i164" col="24.3" row="6.784" />
+		<digit id="i164" col="17.342" row="5.234" />
+
+		<digit id="i153" col="26.435" row="8" />
+		<digit id="i153" col="14.2634" row="6.342" />
+		<digit id="i153" col="21.2323" row="14.654" />
+		<digit id="i153" col="16.34321" row="10.234" />
+		<digit id="i153" col="22.211" row="9.532" />
+		<digit id="i153" col="22.5345" row="6.65443" />
+
+		<digit id="i155" col="13.288" row="4.3736" />
+		<digit id="i155" col="19.262" row="2.73" />
+		<digit id="i155" col="15.17373" row="0.25" />
+		<digit id="i155" col="16.4994" row="14.25251" />
+		<digit id="i155" col="19.2525" row="10.843" />
+		<digit id="i155" col="11.67252" row="13.9590" />
+
+		<digit id="i157" col="13.15" row="10.1223" />
+		<digit id="i157" col="8.14333" row="0.34" />
+		<digit id="i157" col="2.133" row="4.23" />
+		<digit id="i157" col="19.6567" row="8.768" />
+		<digit id="i157" col="17.8890" row="3.35" />
+		<digit id="i157" col="22.6547" row="2.435" />
+
+		<digit id="i159" col="14.32432" row="10.67654" />
+		<digit id="i159" col="20.342" row="14.867" />
+		<digit id="i159" col="28.3124" row="11.7654" />
+		<digit id="i159" col="16.5756" row="4.34223" />
+		<digit id="i159" col="17.76556" row="6.8659" />
+		<digit id="i159" col="16.3214" row="8.867" />
+
+		<digit id="i161" col="22.453" row="11.867" />
+		<digit id="i161" col="14.7655" row="14.325" />
+		<digit id="i161" col="4.877" row="1.24" />
+		<digit id="i161" col="6.435" row="17.4654" />
+		<digit id="i161" col="15.534" row="15.87676" />
+
+		<sparty id="i165" col="1.4167" row="10.8333" />
+	</items>
+</level>
